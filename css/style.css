@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&family=Raleway:ital,wght@0,700;1,400&display=swap');
+
+:root{
+    /* Color */
+    /*Primary*/
+    --color1:hsl(217, 28%, 15%);
+    --color2:hsl(218, 28%, 13%);
+    --color3:hsl(216, 53%, 9%);
+    --color4:hsl(219, 30%, 18%);
+
+    /* Accent */
+    --color5:hsl(176, 68%, 64%);
+    --color6:hsl(198, 60%, 50%);
+    --color7:hsl(0, 100%, 63%);
+
+    /* Neutral*/    
+    --color8:hsl(0, 0%, 100%);
+}
+
